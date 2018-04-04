@@ -13,3 +13,5 @@ function deleteFromObjectByKey(object, key) {
   delete newObj.key
   return newObj
   }
+  
+console.log(deleteFromObjectByKey(recipes, foo))
