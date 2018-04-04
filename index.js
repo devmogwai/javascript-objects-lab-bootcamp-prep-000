@@ -15,3 +15,4 @@ function deleteFromObjectByKey(object, key) {
   }
   
 console.log(deleteFromObjectByKey(recipes, 'foo'))
+console.log (recipes)
